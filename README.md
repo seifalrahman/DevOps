@@ -11,7 +11,7 @@
       • Display the top 5 memory-consuming processes.
     5. Generate a Report:
       • Save the collected information into a log file (e.g., system_monitor.log).
-    6. Enhancements:
+    6. User Interactions:
       • Allow the user to pass optional arguments, such as:
       • -t to specify the disk usage warning threshold.
       • -f to set the output file name.
